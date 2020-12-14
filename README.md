@@ -1,7 +1,4 @@
 ### Hi there 👋
-![Tulsi"s Status](https://github-readme-stats.vercel.app/api?username=deytulsi18&show_icons=true&hide_border=true)
-![Tulsi"s Status](https://github-readme-stats.vercel.app/api/top-langs/?username=deytulsi18&theme=vue&hide=css,html,Shell,Vim%20Script)
-
 <!--
 **deytulsi18/deytulsi18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+![Tulsi"s Status](https://github-readme-stats.vercel.app/api?username=deytulsi18&show_icons=true&hide_border=true)
+![Tulsi"s Status](https://github-readme-stats.vercel.app/api/top-langs/?username=deytulsi18&theme=vue&hide=css,html,Shell,Vim%20Script)
 
 -->
 
