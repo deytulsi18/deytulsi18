@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![Tulsi"s Status](https://github-readme-stats.vercel.app/api?username=deytulsi18&show_icons=true&hide_border=true)
 ![Tulsi"s Status](https://github-readme-stats.vercel.app/api/top-langs/?username=deytulsi18&theme=vue&hide=css,html,Shell,Vim%20Script)
 
--->
+
 
 ## GitHub Stats
 
@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/deytulsi18">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=deytulsi18&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+-->
